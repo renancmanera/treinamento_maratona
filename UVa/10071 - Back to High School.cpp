@@ -8,6 +8,5 @@ int main() {
    while(cin >> v >> t){
        cout << v * 2*t << endl;
    }
-   
    return 0;
 }
